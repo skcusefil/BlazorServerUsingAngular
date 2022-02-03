@@ -1,0 +1,15 @@
+﻿
+.center {
+    border: 3px solid #da61bb;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#c {
+    width: 100%;
+    height: 100%;
+    display: inline;
+    margin: 20px;
+}

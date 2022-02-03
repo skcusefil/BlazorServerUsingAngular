@@ -1,0 +1,21 @@
+@page "/"
+<app-root></app-root>
+
+    <news-widget></news-widget>
+@*<div class="center">
+    <canvas id="c"></canvas>
+</div>*@
+<app-root></app-root>
+
+@*<SurveyPrompt Title="How is Blazor working for you?" />*@
+
+
+@code{
+    [Inject] IJSRuntime JSRuntime { get; set; }
+    IJSObjectReference module;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        module = await JSRuntime.InvokeAsync<IJSObjectReference>("import", "./javascript/my-component.js");
+    }
+}
