@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\Angular-Blazor\\BlazorApp\\BlazorApp.csproj": {}
+    "E:\\Desktop\\Angular-Blazor\\Using Angular in Blazor\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\Angular-Blazor\\BlazorApp\\BlazorApp.csproj": {
+    "E:\\Desktop\\Angular-Blazor\\Using Angular in Blazor\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\Angular-Blazor\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "E:\\Desktop\\Angular-Blazor\\Using Angular in Blazor\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "E:\\Desktop\\Angular-Blazor\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "E:\\Desktop\\Angular-Blazor\\Using Angular in Blazor\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\Megaport\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop\\Angular-Blazor\\BlazorApp\\obj\\",
+        "outputPath": "E:\\Desktop\\Angular-Blazor\\Using Angular in Blazor\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

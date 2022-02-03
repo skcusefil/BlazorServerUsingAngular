@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6a0sv1qoqqK026JBLBjRnTK9p77lN4r64EfL3DyQZWOrFpYzG/C6tPCby7sDKD0V7aga6d84mzoqLCWpH8vY6A==",
+  "dgSpecHash": "eWE2YLJ16A61oQ3+rYl8weOfbcC2vQrMGUZbQc6FjPvjf7L8W0MgrxHEVE7OAIBbo/VPZtjOMGYWRh1AtKlm8g==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\Angular-Blazor\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "E:\\Desktop\\Angular-Blazor\\Using Angular in Blazor\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
